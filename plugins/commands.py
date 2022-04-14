@@ -250,8 +250,8 @@ async def start(client, message):
         f_caption = f"{files.file_name}"
     buttons = [
         [
-            InlineKeyboardButton('⭕️ Support', url='https://t.me/JOSPSupport'),
-            InlineKeyboardButton('Channel ⭕️', url='https://t.me/josprojects/221')
+            InlineKeyboardButton('⭕️ Support', url='https://t.me/It_Bot_supporters'),
+            InlineKeyboardButton('Channel ⭕️', url='https://t.me/infotechIT')
         ],
         [
             InlineKeyboardButton('🎬 Series & Movie Club 🎬', url=f'https://t.me/+TU4ppqEV3_8zYTFl')
